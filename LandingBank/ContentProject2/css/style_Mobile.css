@@ -5433,7 +5433,7 @@ section#info-product {
     font-feature-settings: 'clig' off, 'liga' off;
     /* H6/Bold (15) */
     font-family: Inter;
-    font-size: min(max(15px, 3.6vw), 17px);
+    font-size: min(max(13px, 2.6vw), 15px);
     font-style: normal;
     font-weight: 700;
     line-height: normal;
