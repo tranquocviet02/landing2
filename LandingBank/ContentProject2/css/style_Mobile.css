@@ -6852,7 +6852,7 @@ a {
         font-weight: bold;
         font-feature-settings: 'clig' off, 'liga' off;
         font-family: Inter;
-        font-size: min(max(15px, 2.6vw), 17px);
+        font-size: min(max(13px, 2.6vw), 15px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -6874,7 +6874,7 @@ a {
         font-weight: bold;
         font-feature-settings: 'clig' off, 'liga' off;
         font-family: Inter;
-        font-size: min(max(15px, 2.6vw), 17px);
+        font-size: min(max(13px, 2.6vw), 15px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
