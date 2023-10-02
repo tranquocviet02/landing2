@@ -247,8 +247,6 @@
     <Content Include="ContentDesktopHTC\js-css\css.css" />
     <Content Include="ContentDesktopHTC\js-css\style-css.css" />
     <Content Include="ContentDesktopHTC\js-css\style-css_Mobile.css" />
-    <Content Include="ContentProject2\css\css.css" />
-    <Content Include="ContentProject2\css\css2.css" />
     <Content Include="ContentProject2\css\model.css" />
     <Content Include="ContentProject2\css\model_Mobile.css" />
     <Content Include="ContentProject2\css\select_option.css" />
@@ -257,8 +255,6 @@
     <Content Include="ContentProject2\css\style_Mobile.css" />
     <Content Include="ContentProject2\css\swiper-min.css" />
     <Content Include="ContentProject2\css\app.css" />
-    <Content Include="ContentProject2\css\w3school.css" />
-    <Content Include="ContentProject2\css\w3school_Mobile.css" />
     <Content Include="ContentProject2\images _Mobile\03_2_6.jpg.png" />
     <Content Include="ContentProject2\images _Mobile\add.svg" />
     <Content Include="ContentProject2\images _Mobile\add_circle.png" />
@@ -807,7 +803,6 @@
     <Content Include="LayoutMobile\fonts\Segoe UI\Segoe UI Semilight.woff2" />
     <Content Include="LayoutMobile\fonts\Segoe UI\Segoe UI.woff2" />
     <Content Include="LayoutMobile\js-css\thu-cu-len-doi-iphone-14-pro-max" />
-    <Content Include="ContentProject2\css\.scss" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />

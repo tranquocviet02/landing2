@@ -152,7 +152,7 @@
     height: 100%;
     overflow: auto;
     z-index: 1000;
-    /* padding: 20px; */
+    padding: 6%;
     box-sizing: border-box;
     background-color: #000;
     background-color: rgba(0,0,0,0.75);
