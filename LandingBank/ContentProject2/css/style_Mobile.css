@@ -152,7 +152,7 @@ body.no-scroll {
 
         .header-nav .header-ul .header-li a {
             text-decoration: none;
-            font-size: 15px;
+            font-size: min(max(13px, 2.6vw), 15px);
             color: black;
         }
 
